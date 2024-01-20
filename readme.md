@@ -1,0 +1,3 @@
+# Mapty
+
+Using Vanilla javascript
